@@ -4,3 +4,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/spec5326/hello-world.git
 git push -u origin master
+i am changing this file
